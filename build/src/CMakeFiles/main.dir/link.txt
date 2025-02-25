@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/main.cpp.o -o /home/mikhail/Документы/OOP/oop_lab2/bin/main  libutils.a 

@@ -1,0 +1,6 @@
+/home/mikhail/Документы/OOP/oop_lab2/build/CMakeFiles/edit_cache.dir
+/home/mikhail/Документы/OOP/oop_lab2/build/CMakeFiles/rebuild_cache.dir
+/home/mikhail/Документы/OOP/oop_lab2/build/src/CMakeFiles/utils.dir
+/home/mikhail/Документы/OOP/oop_lab2/build/src/CMakeFiles/main.dir
+/home/mikhail/Документы/OOP/oop_lab2/build/src/CMakeFiles/edit_cache.dir
+/home/mikhail/Документы/OOP/oop_lab2/build/src/CMakeFiles/rebuild_cache.dir
